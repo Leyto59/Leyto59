@@ -1,1 +1,1 @@
-[Installer Extension](https://kodi-vstream.github.io/repo/repository.vstream-0.0.6.zip)
+[repository.vstream-0.0.6.zip](https://lesalkodiques.github.io/repository.vstream-0.0.6.zip)
