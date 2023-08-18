@@ -1,1 +1,6 @@
-
+<addon id="monextension" version="1.0.0" name="Mon Extension" provider-name="Mon Fournisseur">
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <info compressed="false">https://kodi-vstream.github.io/repo/repository.vstream-0.0.6.zip</info>
+</addon>
