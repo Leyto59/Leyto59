@@ -1,1 +1,1 @@
-[Installer Extension](https://github.com/Leyto59/Leyto59/blob/main/vstream.xml)
+[Installer Extension](https://kodi-vstream.github.io/repo/repository.vstream-0.0.6.zip)
